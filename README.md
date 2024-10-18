@@ -1,5 +1,7 @@
 # Projet de Datavisualisation de l'Indice GINI
 
+<img src="https://res.cloudinary.com/dbu3ntrbw/image/upload/v1729240007/yignyznnpdwjutzq1vhy.png"/>
+
 Ce projet a été réalisé par **Julien**, **Driss** et **Soléna** dans le cadre de notre formation à **Ada Tech School** à Nantes.
 
 ## Description du projet
@@ -43,4 +45,5 @@ Une fois le projet ouvert dans votre navigateur, vous pouvez interagir avec les 
 Pour toute question ou suggestion, n'hésitez pas à nous contacter via GitHub.
 
 Merci d'avoir consulté notre projet de datavisualisation. Nous espérons que vous trouverez ces visualisations informatives et utiles !
+
 # Gini-Map
